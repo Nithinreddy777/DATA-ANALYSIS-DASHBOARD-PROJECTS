@@ -12,7 +12,6 @@ The sky blue online store wants to create an annual sales report . so that , the
 # Questions (KPQ) 
 
 -Where should the business focus marketing investment?
-
-
+-Which categories should be expanded or discontinued?
 - <a href="https://github.com/Nithinreddy777/DATA-ANALYSIS-DASHBOARD-PROJECTS/blob/main/DASHBOARD%20SS.png" >View Dashboard</a>
 
