@@ -9,13 +9,14 @@ The sky blue online store wants to create an annual sales report . so that , the
 
 - <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FNithinreddy777%2FDATA-ANALYSIS-DASHBOARD-PROJECTS%2Frefs%2Fheads%2Fmain%2FEXCEL%2520DASHBOARD.xlsx&wdOrigin=BROWSELINK" >Excel Dashboard</a>
 
-# Questions (KPQ)  
+# Questions (KPQ) 
+
 -Where should the business focus marketing investment?
 -Which categories should be expanded or discontinued?
 -Which state generates the highest sales revenue?
 -Which payment method is most preferred by customers?
 -Which product category contributes the most revenue?
--What is the overall profit and profit margin?  
+-What is the overall profit and profit margin?
 
 
 
