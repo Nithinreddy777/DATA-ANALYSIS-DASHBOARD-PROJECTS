@@ -23,7 +23,7 @@ Interactive filtering using slicers and timeline controls.
 Clean and structured business-focused dashboard layout.
 
 
-- <a href="https://github.com/Nithinreddy777/DATA-ANALYSIS-DASHBOARD-PROJECTS/blob/main/DASHBOARD%20SS.png" >View Dashboard</a>
+- <a href="EXCEL SCREENSHOT.png" >View Dashboard</a>
 
 ## Process 
 
