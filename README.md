@@ -33,7 +33,7 @@ An interactive dashboard was then created with charts and slicers to provide cle
 
 # Dashboard 
 
-<img width="1617" height="680" alt="DASHBOARD SS" src="https://github.com/user-attachments/assets/4821f50d-6b9b-4b43-a000-73326dbfa2e6" />
+<img width="1627" height="677" alt="ss update" src="https://github.com/user-attachments/assets/9de79094-eb1e-46c7-a1b6-c6fe47eb433f" />
 
 
 ## Project Insights
